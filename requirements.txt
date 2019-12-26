@@ -1,0 +1,9 @@
+scikit_video
+matplotlib
+opencv_python
+numpy
+tqdm
+scipy
+pyquaternion
+bvh
+PyYAML
