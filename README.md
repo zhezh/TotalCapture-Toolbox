@@ -69,3 +69,5 @@ Finally, you should have a bunch of images and two `.pkl` files in the `./data/i
 │   ├── totalcapture_validation.pkl
 ```
 
+If you want to archive all images in one zip file which is more efficient to be transferred to server or cloud storage, make sure your `pwd` is parent directory of `images/`, then run `zip -0 -r images.zip images/`.
+
