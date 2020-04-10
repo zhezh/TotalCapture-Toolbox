@@ -46,6 +46,9 @@ Then organize the data in below structure (put all data in `./data/totalcapture`
 
 ```
 python gendata/gendb.py
+
+# if cannot import tools
+# export PYTHONPATH=".:$PYTHONPATH"; python gendata/gendb.py  
 ```
 
 **Options**: 
